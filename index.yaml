@@ -1,0 +1,19 @@
+apiVersion: v1
+entries:
+  spark:
+  - apiVersion: v1
+    appVersion: 1.5.1
+    created: "2021-06-09T20:22:36.797671785Z"
+    deprecated: true
+    description: DEPRECATED - Fast and general-purpose cluster computing system.
+    digest: e0b4862812f85dcf7b92d71ed90e9f894f1aef35bb76f384fe322ba736cd10fc
+    home: http://spark.apache.org
+    icon: http://spark.apache.org/images/spark-logo-trademark.png
+    name: spark
+    sources:
+    - https://github.com/kubernetes/kubernetes/tree/master/examples/spark
+    - https://github.com/apache/spark
+    urls:
+    - spark-1.0.5.tgz
+    version: 1.0.5
+generated: "2021-06-09T20:22:36.796883356Z"
